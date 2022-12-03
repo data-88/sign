@@ -1,9 +1,9 @@
 {
-  "name": "accessible-astro-starter",
-  "description": "An Accessible Starter Theme for Astro including several accessiblity features and tools to help you build faster.",
-  "version": "1.6.1",
-  "author": "Mark Teekman",
-  "homepage": "https://accessible-astro.dev",
+  "name": "SIGN",
+  "description": "Digital identification and verification.",
+  "version": "0.1",
+  "author": "AB",
+  "homepage": "https://signidentity.netlify.app/",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
